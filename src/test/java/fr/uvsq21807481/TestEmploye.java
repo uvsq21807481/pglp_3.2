@@ -1,4 +1,4 @@
-package uvsq21807481;
+package fr.uvsq21807481;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

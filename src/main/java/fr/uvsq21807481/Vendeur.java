@@ -6,7 +6,7 @@ public class Vendeur extends Employe {
   private int anciennete;
   private int commission;
 
-  public Vendeur(int commission) {
+  public Vendeur(final int commission) {
     super();
     this.commission = commission;
   }

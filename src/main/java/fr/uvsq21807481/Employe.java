@@ -1,5 +1,6 @@
 package fr.uvsq21807481;
 
+
 public class Employe {
 
   private int salaire;

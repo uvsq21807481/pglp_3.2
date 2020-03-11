@@ -4,9 +4,9 @@ public class Manager extends Employe {
 
   private int tailleEquipe;
 
-  public Manager(int equipe) {
+  public Manager(final int teamSize) {
     super();
-    this.tailleEquipe = equipe;
+    this.tailleEquipe = teamSize;
   }
 
   @Override
